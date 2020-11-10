@@ -1,0 +1,18 @@
+.better-clock {
+    width: 200px;
+    margin-bottom: 50px;
+    border: 1px solid gold;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+
+    text-align: center;
+
+    &_time {
+        color: gold;
+        font-size: 36px;
+        line-height: 1;
+    }
+}
