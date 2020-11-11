@@ -88,7 +88,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Demo react-hooks-Clock</h1>
+      <h1>Demo react-hooks</h1>
 
       <MagicBox />
 
